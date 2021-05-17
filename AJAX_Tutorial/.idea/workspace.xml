@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="378ab89a-2613-4683-ad37-4a1a0ffbae9e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c4QwD1IG9pyGsLPHDYhRKYueJN" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="last_opened_file_path" value="E:/React_JS_for_Students/first-app" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\AJAX_Tutorial\09_Axios_Employee_Portal" />
+      <recent name="C:\Users\HP\Desktop\AJAX_Tutorial" />
+      <recent name="C:\Users\HP\Desktop\AJAX_Tutorial\08_Axios_REST_API" />
+      <recent name="C:\Users\HP\Desktop\AJAX_Tutorial\07_Axios_Basics" />
+      <recent name="C:\Users\HP\Desktop\AJAX_Tutorial\06_Fetch_Employee_Portal\api" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="apiRouter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="apiRouter.js" working-dir="$PROJECT_DIR$/00_Express_Server/api">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.apiRouter.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="378ab89a-2613-4683-ad37-4a1a0ffbae9e" name="Default Changelist" comment="" />
+      <created>1589785621274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589785621274</updated>
+      <workItem from="1589785622865" duration="3828000" />
+      <workItem from="1589808129028" duration="10000" />
+      <workItem from="1590124977555" duration="5643000" />
+      <workItem from="1590147684536" duration="10221000" />
+      <workItem from="1590203610686" duration="624000" />
+      <workItem from="1590288919194" duration="4066000" />
+      <workItem from="1590376022980" duration="24000" />
+      <workItem from="1590379150256" duration="8064000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
